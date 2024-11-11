@@ -1,2 +1,8 @@
-# Movie-recommendation-system
-Discover how Machine Learning can predict movies you'll love! This beginner project uses user preferences and film data to recommend personalized picks, introducing core concepts like filtering and similarity scores for an immersive learning experience.
+# Movie-Recommender
+How to work FAANG company
+<h1>Data Set Link</h1>
+<h3">https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata"</h3>
+
+![Screenshot](img.png)
+
+
